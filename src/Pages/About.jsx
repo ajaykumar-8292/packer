@@ -178,9 +178,9 @@ function About() {
         <button className="bg-green-500 rounded-full text-white md:w-40 md:h-15 h-10 font-medium md:text-1xl cursor-pointer hover:bg-green-700">whatsapp us</button>
 
 
-        <Link to="/contact">
+       
         <button className="text-blue-500 md:w-60 md:h-15 border-2 border-gray-400 rounded-full h-10 font-medium md:text-1xl cursor-pointer  hover:border-gray-700">Get a writen estimate</button>
-    </Link>
+    
     </div>
 </div>
    </>
