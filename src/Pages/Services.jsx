@@ -21,7 +21,7 @@ function Services() {
         <img src={services} alt='services'  className='md:h-180 md:w-full'/>
 
 <div className="absolute inset-0 flex items-center justify-center md:mt-210  ">
-        <div className='bg-gray-400 md:pt-5 md:pl-10 md:pb-10 rounded-lg md:w-200'>
+        <div className='bg-gray-400 md:pt-5 md:pl-10 md:pb-10 rounded-lg md:w-200 mt-40'>
             <h1 className='font-medium  text-3xl text-white'>Office Relocation</h1>
             <p className='font-medium md:mt-3 text-white '>Home Office Relocation Services</p>
 
